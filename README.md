@@ -6,6 +6,7 @@ The effort points and rationale of the 1-8 point range.
 
 - '1' effort is minimal, and not going to take long
 - '8' effort is max, in that it will likely take the whole sprint
+
 The thought process behind our priority rankings:
 
 - '1' is a high priority; necessary to continue the project
